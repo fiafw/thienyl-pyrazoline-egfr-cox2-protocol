@@ -188,4 +188,4 @@ Code and scripts: MIT License (see `LICENSE`). Documentation: CC BY 4.0.
 
 ## Contact
 
-Fia Fathiana Wulan — [your email] · [LinkedIn URL] · [GitHub profile]
+Fia Fathiana Wulan — [fathianawulan@gmail.com] · [https://linkedin.com/in/fathianawulan] · [github.com/fiafw]
